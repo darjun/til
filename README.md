@@ -12,4 +12,4 @@ From https://github.com/jbranchaud/til
 ---
 
 ### Lua
-- [Lua](Lua/auto-conversion.md)
+- [自动类型转换](Lua/auto-conversion.md)
