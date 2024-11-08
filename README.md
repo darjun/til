@@ -7,9 +7,9 @@ From https://github.com/jbranchaud/til
 ---
 
 ### Categories
-* [Common](#common)
+* [Lua](#Lua)
 
 ---
 
-### Common
-- [test](common/test.md)
+### Lua
+- [Lua](Lua/auto-conversion.md)
