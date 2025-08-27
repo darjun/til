@@ -9,6 +9,7 @@ From https://github.com/jbranchaud/til
 ### Categories
 * [Lua](#Lua)
 * [Windows](#Windows)
+* [C/C++](#C/C++)
 
 ---
 
@@ -17,3 +18,7 @@ From https://github.com/jbranchaud/til
 
 ### Windows
 - [AppData](Windows/appdata.md)
+
+
+### C/C++
+- [SimpleMemoryPool](c-cpp/simple-memory-pool.md)
