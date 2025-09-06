@@ -10,6 +10,7 @@ From https://github.com/jbranchaud/til
 * [Lua](#Lua)
 * [Windows](#Windows)
 * [C/C++](#C/C++)
+* [Python](#Python)
 
 ---
 
@@ -22,3 +23,6 @@ From https://github.com/jbranchaud/til
 
 ### C/C++
 - [SimpleMemoryPool](c-cpp/simple-memory-pool.md)
+
+### Python
+- [永久更换pip源](python/change-pip-source.md)
